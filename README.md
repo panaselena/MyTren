@@ -1,3 +1,2 @@
-# just wondering
-only study
-
+#
+just wondering integration with Jira. studying.
