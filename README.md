@@ -1,3 +1,3 @@
 # just wondering
-study
+only study
 
