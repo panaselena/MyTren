@@ -1,6 +1,6 @@
 import random
 # d=open('file.txt','w')
-# d.write('Hello World')
+# d.write('Hello      World')
 # d.close()
 import random
 d2=open('file1.txt','w',encoding='utf-8')
