@@ -2,7 +2,7 @@
 #
 # Open a file called "file.txt" (if not existed create a new one and fill it with random numbers)
 # save its content in a new file "file1.bin" (binary Bing endian) and in a second file "file2.bin" (in Little endian)
-# display "file1.bin" content in the terminal (in the correct way and in the opposite way).
+# display "file1.bin" content in the terminal (in the correct way and in the opposite     way).
 
 a = 5
 b = 13
